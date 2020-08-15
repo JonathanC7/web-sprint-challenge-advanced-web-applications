@@ -1,0 +1,12 @@
+Explain what a token is used for.
+    A token is used to give use access into a webpage so that not just anyone can enter
+
+What steps can you take in your web apps to keep your data secure?
+    Use a database, have tokens securing your important data.
+
+Describe how web servers work.
+    A web server processes incoming network requests using HTTP. The main use is to store,
+    process, and deliver web pages to clients. 
+
+Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+    Create goes to .post. Read goes to .get. Update goes to .put. Delete goes to .delete.
